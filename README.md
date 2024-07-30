@@ -14,8 +14,8 @@ This contains important links for data engineering
    </tr>
   </table>
     <table>
-  <tr>
     <th>Data Lake Architecture</th>
+   <tr> 
     <td>Apache Hudi</td>
     <td>https://hudi.apache.org/blog/2024/07/11/what-is-a-data-lakehouse/</td>
    </tr> 
