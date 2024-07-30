@@ -19,6 +19,10 @@ This contains important links for data engineering
     <td>Apache Hudi</td>
     <td>https://hudi.apache.org/blog/2024/07/11/what-is-a-data-lakehouse/</td>
    </tr> 
+  <tr> 
+    <td>Uber Apache Hudi Architecture</td>
+    <td>https://www.uber.com/en-IN/blog/hoodie/</td>
+   </tr>    
   </table>  
   </body>
 </html>
