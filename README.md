@@ -15,6 +15,7 @@ https://www.youtube.com/watch?v=NBJt8GqU9Tg
 https://medium.com/capital-one-tech/lakehouse-format-convergence-data-interoperability-b2f8be7c1c0b
 https://medium.com/capital-one-tech/understanding-the-evolution-of-data-lakes-37d13b809be9
 https://medium.com/capital-one-tech/dynamodb-streams-lambda-pattern-best-practices-0d7af6381ba6
+https://www.capitalone.com/tech/cloud/delta-lake-transaction-logs/
 
 
 <html>
