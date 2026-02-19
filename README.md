@@ -3,6 +3,15 @@ This contains important links for data engineering
 
 Meta data identification: https://engineering.grab.com/llm-powered-data-classification
 
+https://www.capitalone.com/tech/cloud/data-lake-zones/
+https://www.capitalone.com/tech/cloud/evolution-of-data-lakes/
+https://www.capitalone.com/software/blog/iceberg-tables-lakehouse-architecture/
+https://www.capitalone.com/software/blog/operationalizing-data-mesh/
+https://www.capitalone.com/software/blog/optimize-snowflake-data-warehouse-slingshot/
+https://www.capitalone.com/software/blog/optimizing-data-warehouses/
+https://www.capitalone.com/software/blog/data-management-a-modern-integrated-experience/
+https://www.capitalone.com/software/blog/confidently-apply-slingshot-warehouse-recommendations/
+
 <html>
   <body>
   <table>
