@@ -11,6 +11,8 @@ https://www.capitalone.com/software/blog/optimize-snowflake-data-warehouse-sling
 https://www.capitalone.com/software/blog/optimizing-data-warehouses/
 https://www.capitalone.com/software/blog/data-management-a-modern-integrated-experience/
 https://www.capitalone.com/software/blog/confidently-apply-slingshot-warehouse-recommendations/
+https://www.youtube.com/watch?v=NBJt8GqU9Tg
+
 
 <html>
   <body>
