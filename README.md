@@ -23,6 +23,8 @@ https://www.capitalone.com/tech/cloud/data-lake-vs-data-warehouse/
 https://www.capitalone.com/tech/software-engineering/microservices-design-patterns/
 https://www.capitalone.com/tech/software-engineering/create-postgresql-table/
 https://www.capitalone.com/tech/software-engineering/python-multiprocessing-multithreading/
+https://www.capitalone.com/tech/publications/double-hashing-for-efficient-frequency-estimation/
+
 
 
 
