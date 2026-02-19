@@ -16,6 +16,14 @@ https://medium.com/capital-one-tech/lakehouse-format-convergence-data-interopera
 https://medium.com/capital-one-tech/understanding-the-evolution-of-data-lakes-37d13b809be9
 https://medium.com/capital-one-tech/dynamodb-streams-lambda-pattern-best-practices-0d7af6381ba6
 https://www.capitalone.com/tech/cloud/delta-lake-transaction-logs/
+https://www.capitalone.com/tech/cloud/cost-optimization-best-practices/
+https://www.capitalone.com/tech/software-engineering/data-security-strategies/
+https://www.capitalone.com/tech/software-engineering/java-programming-deep-dive/
+https://www.capitalone.com/tech/cloud/data-lake-vs-data-warehouse/
+https://www.capitalone.com/tech/software-engineering/microservices-design-patterns/
+https://www.capitalone.com/tech/software-engineering/create-postgresql-table/
+https://www.capitalone.com/tech/software-engineering/python-multiprocessing-multithreading/
+
 
 
 <html>
