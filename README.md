@@ -1,5 +1,6 @@
 # UdayDataEngineering
 This contains important links for data engineering
+https://github.com/merlihson/scientific-resources/tree/main
 
 Meta data identification: https://engineering.grab.com/llm-powered-data-classification
 
