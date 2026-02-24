@@ -10,8 +10,11 @@ https://www.instaclustr.com/education/data-architecture/10-tips-for-a-successful
 https://www.instaclustr.com/education/data-architecture/data-architecture-framework-components-and-6-notable-frameworks/
 
 https://atlan.com/dama-dmbok-framework/#dama-dmbok-framework-structure-and-organization
+
 https://atlan.com/know/data-governance/
+
 https://atlan.com/snowflake-data-catalog/
+
 https://atlan.com/know/data-lineage-tracking/
 
 https://www.capitalone.com/tech/cloud/data-lake-zones/
