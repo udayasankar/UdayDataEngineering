@@ -4,6 +4,16 @@ https://github.com/merlihson/scientific-resources/tree/main
 
 Meta data identification: https://engineering.grab.com/llm-powered-data-classification
 
+data architecure:
+https://www.instaclustr.com/education/data-architecture/6-data-architecture-principles-and-how-to-implement-them/
+https://www.instaclustr.com/education/data-architecture/10-tips-for-a-successful-data-architecture-strategy/
+https://www.instaclustr.com/education/data-architecture/data-architecture-framework-components-and-6-notable-frameworks/
+
+https://atlan.com/dama-dmbok-framework/#dama-dmbok-framework-structure-and-organization
+https://atlan.com/know/data-governance/
+https://atlan.com/snowflake-data-catalog/
+https://atlan.com/know/data-lineage-tracking/
+
 https://www.capitalone.com/tech/cloud/data-lake-zones/
 https://www.capitalone.com/tech/cloud/evolution-of-data-lakes/
 https://www.capitalone.com/software/blog/iceberg-tables-lakehouse-architecture/
