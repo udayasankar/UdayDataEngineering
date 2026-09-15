@@ -1,4 +1,8 @@
 # UdayDataEngineering
+Data Quality
+https://www.databricks.com/product/machine-learning/lakehouse-monitoring
+https://www.databricks.com/discover/pages/data-quality-management
+
 https://docs.databricks.com/aws/en/generative-ai/tutorials/ai-cookbook/quality-data-pipeline-rag
 https://aws.amazon.com/blogs/machine-learning/choosing-the-right-approach-for-generative-ai-powered-structured-data-retrieval/
 https://www.ibm.com/think/topics/principal-component-analysis#1793360183
